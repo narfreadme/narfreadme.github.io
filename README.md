@@ -2,9 +2,9 @@
   
 ## narfreadme.com will point to here "really soon now"
 
-fork [index.html][index.html)
+fork [index.html](index.html)
 
-etc, mnore docs to be here soon.
+etc, more docs to be here soon.
 
 Read the docs at: 
 
